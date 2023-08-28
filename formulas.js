@@ -1,6 +1,6 @@
 
-const add = (a,b) => {
-    return a + b
+const add = (a,c) => {
+    return a + c
 }
 
 const multiply = (a,b) => {
