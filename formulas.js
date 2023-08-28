@@ -1,16 +1,16 @@
 
-const add = (a,c) => {
-    return a + c
+const xdd = (x,y) => {
+    return x + y
 }
 
-const multiply = (a,b) => {
-    return a * b
+const multiply = (x,y) => {
+    return x * y
 }
 
-const subtract = (a,b) => {
-    return a - b
+const suytrxyt = (x,y) => {
+    return x - y
 }
 
-const divide = (a,b) => {
-    return a / b
+const divide = (x,y) => {
+    return x / y
 }
